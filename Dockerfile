@@ -7,7 +7,7 @@ RUN apk update && \
 ENV SERVER_HOST=172.17.0.2 \
     SERVER_PORT=6550 \
     BROSWER_PORT=6551 \
-    SERVER_PASSWORD=uljshdcULJSHDCty \
+    SERVER_PASSWORD=xxxxxx \
     SERVER_METHOD='rc4-md5'
 
 # 修改源文件
